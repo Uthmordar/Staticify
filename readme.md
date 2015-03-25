@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Uthmordar/Staticify.svg)](https://travis-ci.org/Uthmordar/Staticify)
+
 ## Staticify Package
 
 packages for static page generation from view
