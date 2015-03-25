@@ -1,0 +1,20 @@
+{
+    "name": "uthmordar/static",
+    "description": "package for web view static page generation, laravel 5 extra features (services provider, command line)",
+    "authors": [
+        {
+            "name": "Tanguy Godin",
+            "email": "tanguyrygodin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Uthmordar\\Staticify": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
